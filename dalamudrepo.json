@@ -1,0 +1,33 @@
+[
+  {
+    "Author": "Team Wrath，动画，Arzhaana",
+    "Name": "Wrath Combo",
+    "InternalName": "WrathCombo",
+    "DalamudApiLevel": 11,
+    "Punchline": "将连招和互斥的技能整合到一个按键上，而且还不止于此。",
+    "Description": "将连招和互斥的技能整合到一个按键上，而且还不止于此。",
+    "Tags": [
+		"combo",
+		"wrath",
+		"wrathcombo",
+		"auto",
+		"autorotation",
+		"rotation",
+		"pve",
+		"pvp"
+    ],
+    "CategoryTags": [
+      "jobs"
+    ],
+    "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
+    "AssemblyVersion": "1.0.0.12",
+    "ApplicableVersion": "any",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 58925,
+    "DownloadLinkInstall": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
+    "DownloadLinkTesting": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
+    "LastUpdate": "1680237651"
+  }
+]
