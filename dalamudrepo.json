@@ -1,6 +1,6 @@
 [
   {
-    "Author": "Team Wrath，动画，Arzhaana",
+    "Author": "Team Wrath，动画，Arzhaana，messia等",
     "Name": "Wrath Combo",
     "InternalName": "WrathCombo",
     "DalamudApiLevel": 11,
@@ -20,7 +20,7 @@
       "jobs"
     ],
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "AssemblyVersion": "1.0.0.15",
+    "AssemblyVersion": "1.0.0.15.1",
     "ApplicableVersion": "any",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -28,6 +28,6 @@
     "DownloadLinkInstall": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
     "DownloadLinkTesting": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
     "DownloadLinkUpdate": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
-    "LastUpdate": "1680237654"
+    "LastUpdate": "1680237655"
   }
 ]
