@@ -29,5 +29,25 @@
     "DownloadLinkTesting": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
     "DownloadLinkUpdate": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
     "LastUpdate": "1680237655"
+  },
+  {
+    "Author": "NightmareXIV,Errer(本地特化)",
+    "Name": "Splatoon",
+    "Punchline": "国服画家 7.1CN 解限特供，",
+    "Description": "国服特供SPLX 7.1CN ",
+    "InternalName": "SplatoonX",
+    "AssemblyVersion": "13.7.4.6",
+    "RepoUrl": "https://github.com/PunishXIV/Splatoon",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "IconUrl": "https://raw.githubusercontent.com/guilyou/Picture/refs/heads/main/Splatoon.png",
+    "ImageUrls": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/moewcorp/SplatoonX/releases/download/13.7.4.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/moewcorp/SplatoonX/releases/download/13.7.4.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/moewcorp/SplatoonX/releases/download/13.7.4.6/latest.zip",
+    "DownloadCount": 751154,
+    "LastUpdated": "0"
   }
 ]
