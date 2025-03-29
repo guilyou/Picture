@@ -20,7 +20,7 @@
       "jobs"
     ],
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "AssemblyVersion": "1.0.0.140",
+    "AssemblyVersion": "1.0.0.141",
     "ApplicableVersion": "any",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -28,7 +28,7 @@
     "DownloadLinkInstall": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
     "DownloadLinkTesting": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
     "DownloadLinkUpdate": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
-    "LastUpdate": "1680237659"
+    "LastUpdate": "1680237660"
   },
   {
     "Author": "NightmareXIV,Errer(本地特化)",
