@@ -20,7 +20,7 @@
       "jobs"
     ],
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "AssemblyVersion": "1.0.1.1101",
+    "AssemblyVersion": "1.0.1.1102",
     "ApplicableVersion": "any",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -28,6 +28,6 @@
     "DownloadLinkInstall": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
     "DownloadLinkTesting": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
     "DownloadLinkUpdate": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
-    "LastUpdate": "1680237663"
+    "LastUpdate": "1680237664"
   }
 ]
