@@ -44,7 +44,7 @@
       "ui"
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/FakeName",
-    "AssemblyVersion": "2.0.0.1",
+    "AssemblyVersion": "2.0.0.2",
     "ApplicableVersion": "any",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -52,6 +52,6 @@
     "DownloadLinkInstall": "https://github.com/guilyou/Picture/raw/refs/heads/main/FakeName/latest.zip",
     "DownloadLinkTesting": "https://github.com/guilyou/Picture/raw/refs/heads/main/FakeName/latest.zip",
     "DownloadLinkUpdate": "https://github.com/guilyou/Picture/raw/refs/heads/main/FakeName/latest.zip",
-    "LastUpdate": "1680237665"
-  }
+    "LastUpdate": "1680237666"
+  },
 ]
