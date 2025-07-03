@@ -32,8 +32,8 @@
   },
   {
     "Author": "KirisameVanilla，动画",
-    "Name": "FakeNameX",
-    "InternalName": "FakeNameX",
+    "Name": "FakeName",
+    "InternalName": "FakeName",
     "DalamudApiLevel": 12,
     "Punchline": "起个假名吧！",
     "Description": "起个假名吧！",
@@ -53,5 +53,5 @@
     "DownloadLinkTesting": "https://github.com/guilyou/Picture/raw/refs/heads/main/FakeName/latest.zip",
     "DownloadLinkUpdate": "https://github.com/guilyou/Picture/raw/refs/heads/main/FakeName/latest.zip",
     "LastUpdate": "1680237666"
-  },
+  }
 ]
