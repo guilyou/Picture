@@ -3,7 +3,7 @@
     "Author": "Team Wrath，动画，Arzhaana，messia等",
     "Name": "Wrath Combo",
     "InternalName": "WrathCombo",
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "Punchline": "将连招和互斥的技能整合到一个按键上，而且还不止于此。",
     "Description": "将连招和互斥的技能整合到一个按键上，而且还不止于此。",
     "Tags": [
@@ -20,7 +20,7 @@
       "jobs"
     ],
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "AssemblyVersion": "1.0.1.1103",
+    "AssemblyVersion": "1.0.2.7.001",
     "ApplicableVersion": "any",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -28,30 +28,7 @@
     "DownloadLinkInstall": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
     "DownloadLinkTesting": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
     "DownloadLinkUpdate": "https://github.com/guilyou/Picture/raw/refs/heads/main/WC/latest.zip",
-    "LastUpdate": "1680237665"
-  },
-  {
-    "Author": "KirisameVanilla，动画",
-    "Name": "FakeName",
-    "InternalName": "FakeName",
-    "DalamudApiLevel": 12,
-    "Punchline": "起个假名吧！",
-    "Description": "起个假名吧！",
-    "Tags": [
-		"name"
-    ],
-    "CategoryTags": [
-      "ui"
-    ],
-    "RepoUrl": "https://github.com/KirisameVanilla/FakeName",
-    "AssemblyVersion": "2.0.0.2",
-    "ApplicableVersion": "any",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 58925,
-    "DownloadLinkInstall": "https://github.com/guilyou/Picture/raw/refs/heads/main/FakeName/latest.zip",
-    "DownloadLinkTesting": "https://github.com/guilyou/Picture/raw/refs/heads/main/FakeName/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/guilyou/Picture/raw/refs/heads/main/FakeName/latest.zip",
     "LastUpdate": "1680237666"
   }
 ]
+
